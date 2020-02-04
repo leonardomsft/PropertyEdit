@@ -1,6 +1,9 @@
 //--------------PropertyEdit----------
 //Uses Property System APIs to read and write property values to and from files.
 //Quick and dirty demo app based on MSDN samples
+//
+//Example:
+//PropertyEdit.exe -get System.AppUserModel.ID C:\Outlook2016.lnk
 
 
 #include <shobjidl.h>
